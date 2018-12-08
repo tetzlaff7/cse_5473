@@ -24,4 +24,4 @@ The source code is well commented and should be easy to follow.
 [Link to a demo on YouTube](https://youtu.be/iJPuBdXMJCU)
 
 ### Extras
-Inside the `/src` directory the `poison-win.py` is Windows implementation of the project. The documentation on how to use it can be found in `poison-win-readme.txt`.
+Inside the `/src` directory the `poison-win.py` is a Windows implementation of the project. The documentation on how to use it can be found in `poison-win-readme.txt`.
